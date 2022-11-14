@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/4p22-final-project-sergey-sevostyanov/static/css/main.073c9b0a.css",
+    "main.js": "/4p22-final-project-sergey-sevostyanov/static/js/main.c7fb296a.js",
+    "static/js/787.ea39a4bf.chunk.js": "/4p22-final-project-sergey-sevostyanov/static/js/787.ea39a4bf.chunk.js",
+    "static/media/logo.svg": "/4p22-final-project-sergey-sevostyanov/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/4p22-final-project-sergey-sevostyanov/index.html",
+    "main.073c9b0a.css.map": "/4p22-final-project-sergey-sevostyanov/static/css/main.073c9b0a.css.map",
+    "main.c7fb296a.js.map": "/4p22-final-project-sergey-sevostyanov/static/js/main.c7fb296a.js.map",
+    "787.ea39a4bf.chunk.js.map": "/4p22-final-project-sergey-sevostyanov/static/js/787.ea39a4bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c7fb296a.js"
+  ]
+}
